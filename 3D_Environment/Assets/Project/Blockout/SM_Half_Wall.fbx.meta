@@ -8,7 +8,8 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wood_Placeholder
-    second: {fileID: 2100000, guid: e284cb71922bd254e9e4541c26e01c0d, type: 2}
+    second: {fileID: 5561349426305759274, guid: f4ba99d9652df5f4daa4c1b0ccd1cd07,
+      type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
