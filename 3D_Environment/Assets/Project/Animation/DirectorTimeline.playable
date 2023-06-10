@@ -127,7 +127,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 10.266666666666667
+    m_Start: 10.26666666666667
     m_ClipIn: 0
     m_Asset: {fileID: 6056003348055844870}
     m_Duration: 10
@@ -538,7 +538,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 10.26666666666667
     m_ClipIn: 0
     m_Asset: {fileID: 241499955529075887}
     m_Duration: 10
@@ -586,7 +586,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0
+    m_PreExtrapolationTime: 10.26666666666667
     m_DisplayName: Recorded
   m_Markers:
     m_Objects: []
@@ -723,7 +723,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 10.266666666666667
+    m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 4090461428438009241}
     m_Duration: 6.566666666666666
@@ -741,25 +741,7 @@ MonoBehaviour:
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -771,7 +753,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 10.266666666666667
+    m_PreExtrapolationTime: 0
     m_DisplayName: Recorded (1)
   m_Markers:
     m_Objects: []
@@ -881,7 +863,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -1382966086839663544}
-    m_Duration: 10
+    m_Duration: 6.566666666666666
     m_TimeScale: 1
     m_ParentTrack: {fileID: 1232943867636440418}
     m_EaseInDuration: 0
@@ -961,7 +943,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 25
+  take: 35
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -969,7 +951,7 @@ MonoBehaviour:
       m_Leaf: Recordings
       m_ForceAssetFolder: 0
       m_AbsolutePath: C:\Users\ethan\Desktop\Environment Recordings
-    m_FileName: Camera6_004
+    m_FileName: Camera_007
   outputFormat: 0
   videoBitRateMode: 2
   captureAlpha: 0
@@ -998,13 +980,13 @@ MonoBehaviour:
       m_OutputResolution:
         m_CustomWidth: 1024
         m_CustomHeight: 1024
-        imageHeight: 0
-        maxSupportedHeight: 4320
+        imageHeight: 1080
+        maxSupportedHeight: 2160
         m_AspectRatio:
           m_CustomAspectX: 1
           m_CustomAspectY: 1
           m_ImageAspect: 1
-      source: 2
+      source: 1
       cameraTag: 
       flipFinalOutput: 0
       captureUI: 0
@@ -2395,10 +2377,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 10.266666666666667
+    m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -277845201417672103}
-    m_Duration: 8.499999999999499
+    m_Duration: 6.566666666666666
     m_TimeScale: 1
     m_ParentTrack: {fileID: 3200537581612320463}
     m_EaseInDuration: 0
@@ -2603,7 +2585,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 10.266666666666666
     m_ClipIn: 0
     m_Asset: {fileID: -4529186622755625803}
     m_Duration: 7

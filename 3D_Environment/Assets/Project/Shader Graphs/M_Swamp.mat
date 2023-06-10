@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Swamp
+  m_Shader: {fileID: -6465566751694194690, guid: c9030126d4516284a91ef2aee28a190f,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ColourLerp: 3.4
+    - _Distance: 1.03
+    - _FoamOffset_U: 0.05
+    - _FoamOffset_V: 0.05
+    - _FoamTile_U: 50
+    - _FoamTile_V: 50
+    - _Foam_Amount: 1.74
+    - _Foam_Cutoff: 4.12
+    - _Foam_Opacity: 0.31
+    - _Foam_Scale: 9.39
+    - _LerpFactor: 3.4
+    - _MovementAmount_U: 0.5
+    - _MovementAmount_V: 0.5
+    - _MovementSpeed: 1
+    - _NoiseTextureScale: 12.1
+    - _Opacity_A: 0.4
+    - _Opacity_B: 0.6
+    - _Opacity_Distance: 1.7
+    - _PatchDisplacement_U: 1
+    - _PatchDisplacement_V: 1
+    - _PatchSize: 0.699
+    - _PatchSize2: 0.68
+    - _PatchTextureScale: 12.1
+    - _PlantSize: 570.3
+    - _PlantsMovement_U: 0.5
+    - _PlantsMovement_V: 0.5
+    - _PlantsSize: 0.68
+    - _PlantsSpeed: 1
+    - _PlantsTextureScale: 570.3
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RefractionOffset_U: 0.02
+    - _RefractionOffset_V: 0.02
+    - _RefractionTile_U: 20
+    - _RefractionTile_V: 20
+    - _Refraction_Intensity: 20
+    - _test: 0.49
+    m_Colors:
+    - _Color_A: {r: 0.40784317, g: 0.3647059, b: 0.2627451, a: 0}
+    - _Color_B: {r: 0.078431375, g: 0.12941177, b: 0.027450982, a: 0}
+    - _Foam_Color: {r: 0.41985312, g: 0.6320754, b: 0.21168566, a: 0}
+    - _PlantsColour: {r: 0.058823533, g: 0.67058825, b: 0.16470589, a: 0}
+    - _PlantsColour2: {r: 0.6132076, g: 0.56003743, b: 0.26900142, a: 0}
+    - _PlantsInnerColour: {r: 0.41293818, g: 0.49056602, b: 0.1966892, a: 0}
+    - _PlantsOuterColour: {r: 0.40784317, g: 0.3647059, b: 0.2627451, a: 0}
+    - _Plants_Colour: {r: 0.38823533, g: 0.5882353, b: 0.11764707, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &6319867306225050835
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5

@@ -63,7 +63,7 @@ Material:
     - _AOIntensity: 1
     - _AOLevel: 1
     - _Alpha: 1
-    - _ConvertToRoughness: 1
+    - _ConvertToRoughness: 0
     - _HueColor: 0
     - _Metallic: 0
     - _MetallicIntensity: 1
