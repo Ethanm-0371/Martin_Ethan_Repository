@@ -51,7 +51,7 @@ Material:
     - _MovementSpeed: 1
     - _NoiseTextureScale: 12.1
     - _Opacity_A: 0.4
-    - _Opacity_B: 0.6
+    - _Opacity_B: 0.4
     - _Opacity_Distance: 1.7
     - _PatchDisplacement_U: 1
     - _PatchDisplacement_V: 1

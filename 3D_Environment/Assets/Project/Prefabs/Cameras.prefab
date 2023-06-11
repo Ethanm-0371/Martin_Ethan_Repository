@@ -108,7 +108,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -226,7 +226,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -261,7 +261,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1629342208232070582}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -35.563, y: -10.13, z: 43.12}
+  m_LocalPosition: {x: -5, y: -10.13, z: 85.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -287,6 +287,18 @@ PlayableDirector:
     value: {fileID: 1629342208651498706}
   - key: {fileID: -591510969076002387, guid: e17534602fe45b14eb5b67787712b468, type: 2}
     value: {fileID: 1629342208875940750}
+  - key: {fileID: 5356548353882079188, guid: e17534602fe45b14eb5b67787712b468, type: 2}
+    value: {fileID: 1629342208138572502}
+  - key: {fileID: 5101251770417355217, guid: e17534602fe45b14eb5b67787712b468, type: 2}
+    value: {fileID: 1629342209227152934}
+  - key: {fileID: -4644475646391034959, guid: e17534602fe45b14eb5b67787712b468, type: 2}
+    value: {fileID: 1629342208261911579}
+  - key: {fileID: -762171674971161200, guid: e17534602fe45b14eb5b67787712b468, type: 2}
+    value: {fileID: 1629342207953392720}
+  - key: {fileID: -3642164228506886000, guid: e17534602fe45b14eb5b67787712b468, type: 2}
+    value: {fileID: 1629342209691891208}
+  - key: {fileID: 3200537581612320463, guid: e17534602fe45b14eb5b67787712b468, type: 2}
+    value: {fileID: 1629342208875940736}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &1629342208261911579
@@ -397,7 +409,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -588,7 +600,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -745,7 +757,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
@@ -901,7 +913,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
