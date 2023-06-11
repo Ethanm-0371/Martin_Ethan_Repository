@@ -46,8 +46,8 @@ Material:
     - _Foam_Opacity: 0.31
     - _Foam_Scale: 9.39
     - _LerpFactor: 3.4
-    - _MovementAmount_U: 2
-    - _MovementAmount_V: 2
+    - _MovementAmount_U: 70
+    - _MovementAmount_V: 70
     - _MovementSpeed: 1
     - _NoiseTextureScale: 12.1
     - _Opacity_A: 0.4

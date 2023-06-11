@@ -59,7 +59,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AO: 0
+    - _AO: 1
     - _AOIntensity: 1
     - _AOLevel: 1
     - _Alpha: 1
